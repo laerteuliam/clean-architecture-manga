@@ -55,6 +55,8 @@
 
                 options.CustomSchemaIds(x => x.FullName);
             });
+
+            //teste 212323
         }
 
         public void ConfigureContainer(ContainerBuilder builder)
